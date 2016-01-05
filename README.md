@@ -23,10 +23,10 @@ How to use?
     }
 
 
+2.Extract zip file to folder
 
-2. Extract zip file to folder
     public static boolean extratZipFile(final String source,final String dest) {
-
+    	
     	System.out.println("Extracting Zip file ...");
     	
     	boolean ret = false; 
